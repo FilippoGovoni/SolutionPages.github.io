@@ -4,4 +4,4 @@ title: "User roles"
 permalink: /user_roles/
 ---
 
-<h1> User roles </h1>
+<h1> {{page.title}} </h1>
