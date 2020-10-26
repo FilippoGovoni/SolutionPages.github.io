@@ -1,15 +1,15 @@
 #_data/navbar.yml
 - name: Activity
-  link: /activity
+  link: /SolutionPages.github.io/activity
 - name: Automation
-  link: /automation
+  link: /SolutionPages.github.io/automation
 - name: Policy
-  link: /policy
+  link: /SolutionPages.github.io/policy
 - name: Settings
-  link: /settings
+  link: /SolutionPages.github.io/settings
 - name: Subscription
-  link: /subscription
+  link: /SolutionPages.github.io/subscription
 - name: Ticket
-  link: /ticket
+  link: /SolutionPages.github.io/ticket
 - name: User roles
-  link: /user_roles
+  link: /SolutionPages.github.io/user_roles
