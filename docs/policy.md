@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Policy"
-permalink: /policy/
+permalink: /SolutionPages.github.io/policy/
 ---
 
 <h1> Policy </h1>

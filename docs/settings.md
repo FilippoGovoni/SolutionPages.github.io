@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Settings"
-permalink: /settings/
+permalink: /SolutionPages.github.io/settings/
 ---
 
 <h1> Settings </h1>

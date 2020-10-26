@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Automation"
-permalink: /automation/
+permalink: /SolutionPages.github.io/automation/
 ---
 
 <h1> Automation </h1>

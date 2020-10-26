@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ticket"
-permalink: /ticket/
+permalink: /SolutionPages.github.io/ticket/
 ---
 
 <h1> Ticket </h1>

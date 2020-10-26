@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Subscription"
-permalink: /subscription/
+permalink: /SolutionPages.github.io/subscription/
 ---
 
 <h1> Subscription </h1>
