@@ -1,0 +1,15 @@
+#_data/navbar.yml
+- name: Activity
+  link: /activity
+- name: Automation
+  link: /automation
+- name: Policy
+  link: /policy
+- name: Settings
+  link: /settings
+- name: Subscription
+  link: /subscription
+- name: Ticket
+  link: /ticket
+- name: User roles
+  link: /user_roles
