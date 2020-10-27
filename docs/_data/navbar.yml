@@ -1,6 +1,10 @@
 #_data/navbar.yml
 - name: Activity
-  link: /SolutionPages.github.io/activity
+  link:
+  subitems:
+    - name: Activity status
+      link: /SolutionPages.github.io/activity_status
+  
 - name: Automation
   link: /SolutionPages.github.io/automation
 - name: Policy
