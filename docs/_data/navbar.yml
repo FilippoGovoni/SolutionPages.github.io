@@ -1,19 +1,45 @@
 #_data/navbar.yml
 - name: Activity
-  link:
   subitems:
     - name: Activity status
       link: /SolutionPages.github.io/activity_status
-  
 - name: Automation
-  link: /SolutionPages.github.io/automation
+  subitems:
+    - name: Ticket by mail
+      link: /SolutionPages.github.io/automation
 - name: Policy
-  link: /SolutionPages.github.io/policy
+  subitems:
+    - name: Cookie Policy
+      link: /SolutionPages.github.io/cookie
+    - name: Privacy Policy
+      link: /SolutionPages.github.io/privacy
+    - name: Privacy and Data Protection
+      link: /SolutionPages.github.io/privacy_data
+    - name: Subscription Agreement
+      link: /SolutionPages.github.io/sub_agree
+    - name: Website Terms of Use
+      link: /SolutionPages.github.io/terms
 - name: Settings
-  link: /SolutionPages.github.io/settings
+  subitems:
+    - name: Contact form
+      link: /SolutionPages.github.io/contact_form
+    - name: Contact list
+      link: /SolutionPages.github.io/contact_list
 - name: Subscription
-  link: /SolutionPages.github.io/subscription
+  subitems:
+    - name: Add user
+      link: /SolutionPages.github.io/add_user
+    - name: Extension & Connectors
+      link: /SolutionPages.github.io/extension
+    - name:  Plan & Licenses 
+      link: /SolutionPages.github.io/plan_licenses
 - name: Ticket
-  link: /SolutionPages.github.io/ticket
-- name: User roles
-  link: /SolutionPages.github.io/user_roles
+  subitems:
+    - name: Ticket list
+      link: /SolutionPages.github.io/ticket_list
+    - name: Ticket status
+      link: /SolutionPages.github.io/ticket_status
+- name: User 
+  subitems:
+    - name: Customer portal
+      link: /SolutionPages.github.io/user_roles

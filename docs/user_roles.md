@@ -6,7 +6,7 @@ permalink: /user_roles
 
 <h1>Customer Portal</h1>
 <p>
-Updated: 19/03/2019<br>
+<code>Updated: 19/03/2019</code><br>
 The Customer Portal role provides, to customers of the service, visibility and access to Fastservice.
 This role has visibility of forms and features showed below.
 </p>

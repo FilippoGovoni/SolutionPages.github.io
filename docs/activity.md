@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "Activity"
-permalink: /activity
+permalink: /activity_status
 ---
 
 <p>
 <h2>Activity status</h2>
-Updated: 13/02/2019 <br>
+<code>Updated: 13/02/2019</code> <br>
 The status of the activity provides immediate information on the progress of the activity, if it is planned, if it is still editable, if it has been approved or invoiced.
 </p>
 <p>

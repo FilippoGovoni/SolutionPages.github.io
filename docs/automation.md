@@ -5,8 +5,8 @@ permalink: /automation
 ---
 
 <h1>Ticket by mail</h1>
-<p><br>
-Updated: 13/09/2016
+<p>
+<code>Updated: 13/09/2016</code><br>
 The feature is designed to enable all customers, covered by the service, send an e-mail to generate a ticket, instead of making a phone call or access a software to do it. Every master account in Fastservice has an e-mail assigned address for managing this feature.
 </p>
 
