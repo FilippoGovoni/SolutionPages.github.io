@@ -2,12 +2,19 @@
     <h1>Fastservice DOCS</h1>
     <h4>Configuration tips, workflows documentation, and other useful informations to use Fastservice in your ecosystem.</h4>
 </div>
-<div class="vertical-nav bg-white" id="sidebar">
-    <ul class="nav flex-column bg-white mb-0">
-        {% for item in site.data.navbar %}
-        <li class="nav-item">
-            <a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+<div class="row col-6">
+    <div class="vertical-nav bg-white" id="sidebar">
+        <ul class="nav flex-column bg-white mb-0">
+            {% for item in site.data.navbar %}
+            <li class="nav-item">
+                <a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="contenuto">
+        {{ content}}
+    </div>
 </div>
+
+
