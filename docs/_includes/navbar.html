@@ -1,9 +1,13 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-            {% for item in site.data.navbar %}
+<div class="container-fluid header-section">
+    <h1>Fastservice DOCS</h1>
+    <h4>Configuration tips, workflows documentation, and other useful informations to use Fastservice in your ecosystem.</h4>
+</div>
+<div class="vertical-nav bg-white" id="sidebar">
+    <ul class="nav flex-column bg-white mb-0">
+        {% for item in site.data.navbar %}
+        <li class="nav-item">
             <a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a>
-            {% endfor %}
-        </div>
-    </div>
-</nav>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
